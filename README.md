@@ -49,4 +49,7 @@ SQL is the backbone of data-driven decisions, and mastering it unlocks the power
 
 🔗 Explore, contribute, or star if you find this helpful!
 
+<br>
+Author : Aleeza Tabassum
+
 
