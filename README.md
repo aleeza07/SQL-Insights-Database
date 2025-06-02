@@ -1,6 +1,8 @@
 # SQL-Insights-Database
 My SQL learning journey where I unlock the power of databases—one query at a time! 
+
 <br>
+
 📊 Today’s SQL & Database Learnings
 🚀 Diving Deep into Databases & SQL
 
@@ -18,11 +20,11 @@ Understood SQL structure, schemas, scalability, and real-world use cases for eac
 
 Mastered essential query commands:
 
-SELECT – Fetching data like a pro.
+1)SELECT – Fetching data like a pro.
 
-SELECT DISTINCT – Eliminating duplicates for clean results.
+2)SELECT DISTINCT – Eliminating duplicates for clean results.
 
-WHERE – Filtering data with precision.
+3)WHERE – Filtering data with precision.
 
 Got hands-on with operators (=, <>, >, <, LIKE, IN, etc.) to refine queries.
 
@@ -32,11 +34,11 @@ Applied concepts to a CRM-like database (customers, products, orders).
 
 Wrote queries to:
 
-Retrieve specific customer data.
+1)Retrieve specific customer data.
 
-Filter orders based on conditions.
+2)Filter orders based on conditions.
 
-Extract unique product entries.
+3)Extract unique product entries.
 
 Solved challenges and verified outputs—solidifying my understanding!
 
